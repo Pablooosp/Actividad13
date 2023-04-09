@@ -24,16 +24,7 @@ public class Triangulo implements Figura{
 		// TODO Auto-generated method stub
 		switch(tipo) {
 			case "a":
-				System.out.println("\n");
 				
-				for (int i = 0; i < lado - 1; i++) {
-					for (int a = i; a >= 0; a--) {
-
-						System.out.print(carac);
-					}
-					System.out.println(" ");
-
-				}
 			break;
 			case "b":
 				
