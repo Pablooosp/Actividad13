@@ -36,39 +36,13 @@ public class Triangulo implements Figura{
 				}
 			break;
 			case "b":
-				System.out.println("\n");
 				
-				for (int i = 0; i < lado - 1; i++) {
-					for (int a = i; a >= 0; a--) {
-
-						System.out.print(carac);
-					}
-					System.out.println(" ");
-
-				}
 			break;
 			case "c":
-				System.out.println("\n");
-				for (int i = 0; i < lado - 1; i++) {
-					for (int a = i; a >= 0; a--) {
-
-						System.out.print(carac);
-					}
-					System.out.println(" ");
-
-				}
+				
 			break;
 			case "d":
-				System.out.println("\n");
 				
-				for (int i = 0; i < lado - 1; i++) {
-					for (int a = i; a >= 0; a--) {
-
-						System.out.print(carac);
-					}
-					System.out.println(" ");
-
-				}
 			break;
 		}
 		
